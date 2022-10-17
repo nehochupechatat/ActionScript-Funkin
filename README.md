@@ -1,6 +1,7 @@
 # ActionScript-Funkin
 Simple FNF engine clone using ActionScript. Programmed like it's 2002! 
 
+The .fla file includes a very simple demo "week" showing very basic gameplay capabilities.
 
 ### **Build Dependencies**
 
