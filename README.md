@@ -18,5 +18,9 @@ If you reach the Flash 16000 frame limit, just store your week in a movie clip.
 
 If you want your mod to work with Ruffle, DO NOT USE BLURRING, GLOWING OR ANY OTHER FILTERS!
 
+If you want your mod graphics to be small, optimize your graphics using Modify > Shape > Optimize. Use bitmaps sparsingly.
+
 ### **Running**
-Will work on Ruffle. Requires capabilities of at least Flash Player 6.
+Will work on Ruffle. Requires capabilities of at least Flash Player 5. 
+
+(if you add epic parallax, vcam and video, that would require Flash Player 6 capabilities)
