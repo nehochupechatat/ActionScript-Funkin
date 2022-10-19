@@ -7,7 +7,7 @@ Due to ActionScript 2 limitations, some things like the "ratio bar" aren't imple
 
 ### Benefits 
 
-- Entire game would be stored in 1 SWF file!
+- Entire game can be stored in 1 SWF file!
 - Clone can be played online using Ruffle!
 - You can do cool stuff with the arrows!
 - Truly scalable vector sprites!
@@ -28,7 +28,7 @@ You mod by importing your song as a WAV/MP3, adding it to streaming.
 
 For charting and opponent singing, you just have to tween the arrows.
 
-If you reach the Flash 16000 frame limit, just store your week in a movie clip.
+Store your weeks in movie clips. 1 movie clip for each song. Label your frames like "week1_1", "week1_2", "week1_3", "week2_1" and so on.
 
 If you want your mod to work with Ruffle, DO NOT USE BLURRING, GLOWING OR ANY OTHER FILTERS!
 
