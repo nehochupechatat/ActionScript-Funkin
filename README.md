@@ -1,7 +1,7 @@
 # ActionScript Funkin (aka Diet Funkin)
 Simple FNF engine clone using ActionScript. Programmed like it's 2002! 
 
-The .fla file includes a very simple demo "week" showing very basic gameplay capabilities.
+The .fla file includes a very simple demo "week" showing very basic gameplay capabilities, with title and game over screens.
 
 Due to ActionScript 2 limitations, some things like the "ratio bar" aren't implemented.
 
@@ -33,3 +33,10 @@ Store your weeks in movie clips. 1 movie clip for each song. Label your frames l
 If you want your mod to work with Ruffle, DO NOT USE BLURRING, GLOWING OR ANY OTHER FILTERS!
 
 If you want your mod graphics to be small, optimize your graphics using Modify > Shape > Optimize. Use bitmaps sparsingly.
+
+### **.FLA Guide**
+
+FNF_AS2_proto.fla - includes shared songs demo week code + UI assets + assets for GF, BF and Pico.
+Other .fla files - assets for weeks.
+
+FNF_Lite.fla - might come in the future. Ports stock FNF weeks to the 'Diet Engine'.
