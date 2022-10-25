@@ -19,6 +19,7 @@ Macromedia Flash 8 (or any version after that, but before Flash CC 2013)
 
 ### **Running**
 Will work on Ruffle. Requires capabilities of at least Flash Player 5. 
+The low-rez .swf has the tracks compressed as 24kbps MPEG.
 
 (if you add epic parallax, vcam and video, that would require Flash Player 6 capabilities)
 
